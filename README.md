@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ### wheel
 
-*awesome-python*
+*Awesome Windows* 
 
-*Awesome Windows*
-
+*awesome-python*  
 *tensorflow_course*[https://github.com/nfmcclure/tensorflow_cookbook]  
-*tensorflow_cookbook*[https://github.com/nfmcclure/tensorflow_cookbook]
+*tensorflow_cookbook*[https://github.com/nfmcclure/tensorflow_cookbook]  
 
 ### other
+
 ```python
 print("python")
 ```
