@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 你好
 很高兴遇见你，请多指教
-###other
+### other
 ```python
 print("python")
 ```
