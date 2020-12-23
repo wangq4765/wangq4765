@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 *awesome-python*  
 [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
-*tensorflow_cookbook*[https://github.com/nfmcclure/tensorflow_cookbook]  
-*awesome-pytorch-list*[https://github.com/bharathgs/Awesome-pytorch-list]  
+[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
+[awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
 
 ### other
 
