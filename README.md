@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 ### wheel
 
 *awesome linux software*  
-*awesome-android*
+*awesome-android*  
+*awesome-go*  
+*awesome-ios*  
+*awesome-java*  
+*awesome-javascript*
 
 ### python
 - *awesome-python*  
