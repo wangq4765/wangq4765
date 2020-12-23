@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ### wheel
 
+- *awesome-macOS*  
 - *awesome linux software*  
 - *awesome-android*  
 - *awesome-go*  
