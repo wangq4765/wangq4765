@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ### code
 
 ```python
+# python 语言代码
 print("python")
 ```
 
