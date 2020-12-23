@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### python
 - *awesome-python*  
-- *Awesome Linux Software*
+- *awesome linux software*  
 - [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
 - [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
 - [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
