@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ### wheel
 
-*Awesome Windows* 
+*Awesome Windows*
 
-*awesome-python*  
-[tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
-[tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
-[awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
+### python
+- *awesome-python*  
+- [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
+- [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
+-[awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
 
 ### other
 
