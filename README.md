@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 print("python")
 ```
 
->You found a secret! wang2018110733/wang2018110733 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
->你发现了一个秘密!wang2018110733/wang2018110733是一个✨特殊的✨存储库，您可以使用它来添加自述文件。md到你的GitHub配置文件。确保它是公共的，并使用README初始化它以开始。
+>You found a secret! wang2018110733/wang2018110733 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.  
+你发现了一个秘密!wang2018110733/wang2018110733是一个✨特殊的✨存储库，您可以使用它来添加自述文件。md到你的GitHub配置文件。确保它是公共的，并使用README初始化它以开始。
 
 
