@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 *awesome-python*
 
-*Awesome Windows*  
-*tensorflow_course*[https://github.com/nfmcclure/tensorflow_cookbook]
+*Awesome Windows*
+
+*tensorflow_course*[https://github.com/nfmcclure/tensorflow_cookbook]  
+*tensorflow_cookbook*[https://github.com/nfmcclure/tensorflow_cookbook]
 
 ### other
 ```python
