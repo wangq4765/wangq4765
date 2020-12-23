@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ### wheel
 awesome-python
+Awesome Windows
+tensorflow_course[https://github.com/nfmcclure/tensorflow_cookbook]
 
 ### other
 ```python
