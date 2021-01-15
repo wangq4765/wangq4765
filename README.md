@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 - [python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) 
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
+- [Red Alert1](https://github.com/electronicarts/CnC_Remastered_Collection)  
 
 ### code
 
