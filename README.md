@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - *awesome-android*  
 - *awesome-ios*  
 
-
 ### programming
 - *awesome-java*  
 - *awesome-javascript*
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)  
 - [python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) 
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 
 ### code
 
