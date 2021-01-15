@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - [MosAIc](https://microsoft.github.io/art/)  
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)  
 - [python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) 
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)  
 
 ### code
 
