@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 - [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
 
 ### comprehensive
+- [MosAIc](https://microsoft.github.io/art/)  
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)  
+
 
 ### code
 
