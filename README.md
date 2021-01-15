@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 - [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
 - [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
 
+### comprehensive
+- [project-based-learning](https://github.com/tuvtran/project-based-learning)  
+
 ### code
 
 ```python
