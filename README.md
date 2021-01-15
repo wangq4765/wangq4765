@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 - *awesome-macOS*  
 - *awesome linux software*  
 - *awesome-android*  
-- *awesome-go*  
 - *awesome-ios*  
+
+
+### programming
 - *awesome-java*  
 - *awesome-javascript*
 - *awesome-python*  
+- *awesome-go*  
 
 ### python
 - [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
