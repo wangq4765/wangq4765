@@ -49,7 +49,11 @@ Here are some ideas to get you started:
 - [CSSFX](https://github.com/jolaleye/cssfx) 
 - [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) 
 - [v-calendar](https://github.com/nathanreyes/v-calendar) 
-
+- [Vue Design System](https://github.com/viljamis/vue-design-system) 
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) 
+- [vue2-animate](https://github.com/asika32764/vue2-animate) 
+- [CRMEB-Min](https://gitee.com/ZhongBangKeJi/CRMEB-Min) 
+- [CRMEB Java](https://gitee.com/ZhongBangKeJi/crmeb_java) 
 
 ### code
 
