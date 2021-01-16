@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - PowerToys  
 - PandaOCR
 - git
-
+- listen1
 
 ### programming
 - *awesome-java*  
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 - [Red Alert1](https://github.com/electronicarts/CnC_Remastered_Collection)  
 - [OpenHarmony](https://gitee.com/openharmony/docs/blob/master/readme/%E5%86%85%E6%A0%B8%E5%AD%90%E7%B3%BB%E7%BB%9FREADME.md) 
-- [程序员考公指南](https://github.com/coder2gwy/coder2gwy)  
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy)  
 
 ### vue
 - [uiGradients](https://github.com/ghosh/uiGradients) 
