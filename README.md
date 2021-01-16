@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - *awesome linux software*  
 - *awesome-android*  
 - *awesome-ios*  
+- PowerToys  
+- PandaOCR
+- git
+
 
 ### programming
 - *awesome-java*  
