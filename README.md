@@ -44,6 +44,13 @@ Here are some ideas to get you started:
 - [Red Alert1](https://github.com/electronicarts/CnC_Remastered_Collection)  
 - [OpenHarmony](https://gitee.com/openharmony/docs/blob/master/readme/%E5%86%85%E6%A0%B8%E5%AD%90%E7%B3%BB%E7%BB%9FREADME.md)  
 
+### vue
+- [uiGradients](https://github.com/ghosh/uiGradients) 
+- [CSSFX](https://github.com/jolaleye/cssfx) 
+- [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) 
+- [v-calendar](https://github.com/nathanreyes/v-calendar) 
+
+
 ### code
 
 ```python
