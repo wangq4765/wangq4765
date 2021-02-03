@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - *PandaOCR*
 - *git*
 - *listen1*
+- *阅读*
 
 ### programming
 - *awesome-java*  
