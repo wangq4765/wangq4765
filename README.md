@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
 - [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
 - [awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)  
+- [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn)  
 
 ### comprehensive
 - [MosAIc](https://microsoft.github.io/art/)  
