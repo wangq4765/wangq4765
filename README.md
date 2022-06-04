@@ -37,6 +37,15 @@ Here are some ideas to get you started:
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
+ ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/JoykishanSharma?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
