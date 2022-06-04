@@ -88,12 +88,6 @@ Here are some ideas to get you started:
 - *git*
 - *阅读*
 
-### programming
-- *awesome-java*  
-- *awesome-javascript*
-- *awesome-python*  
-- *awesome-go*  
-
 ### python
 - [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
 - [tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook)  
@@ -110,17 +104,6 @@ Here are some ideas to get you started:
 - [OpenHarmony](https://gitee.com/openharmony/docs/blob/master/readme/%E5%86%85%E6%A0%B8%E5%AD%90%E7%B3%BB%E7%BB%9FREADME.md) 
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy)  
 - [cskaoyan](https://github.com/csseky/cskaoyan)  
-
-### vue
-- [uiGradients](https://github.com/ghosh/uiGradients) 
-- [CSSFX](https://github.com/jolaleye/cssfx) 
-- [sing-app-vue-dashboard](https://github.com/flatlogic/sing-app-vue-dashboard) 
-- [v-calendar](https://github.com/nathanreyes/v-calendar) 
-- [Vue Design System](https://github.com/viljamis/vue-design-system) 
-- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) 
-- [vue2-animate](https://github.com/asika32764/vue2-animate) 
-- [CRMEB-Min](https://gitee.com/ZhongBangKeJi/CRMEB-Min) 
-- [CRMEB Java](https://gitee.com/ZhongBangKeJi/crmeb_java) 
 
 ### code
 
