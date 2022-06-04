@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-	<br>
-	<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ---
 
