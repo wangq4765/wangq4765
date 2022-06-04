@@ -76,17 +76,7 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-### wheel
-
-- *awesome-macOS*  
-- *awesome linux software*  
-- *awesome-android*  
-- *awesome-ios*  
-- *PowerToys*  
-- *PandaOCR*
-- *listen1*
-- *git*
-- *阅读*
+---
 
 ### python
 - [tensorflow_course](https://github.com/nfmcclure/tensorflow_cookbook)  
