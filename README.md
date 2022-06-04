@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 ### 你好
 很高兴遇见你，请多指教
 
+---
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
+
+---
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
@@ -29,9 +33,13 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/maria-eduarda-de-azevedo-silva-a9a134191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="https://open.spotify.com/user/6fgvmx4gtnl612cg0jjtyugps" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a><a href="https://twitter.com/ddt_azevedo" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
+---
+	
 [![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765)](//www.tianheyu.top)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangq4765&theme=radical&title_color=8E2DE2&text_color=fff)
 
