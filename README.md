@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div>
 
 ---
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/singer_brijesh_dhanani">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br />
 <br />
 
 ---
