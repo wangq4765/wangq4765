@@ -37,7 +37,24 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+-----
+<a href="https://github.com/Daggy1234">
+  <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" />
+</a>
+
+
+***
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
+</a>
+-----
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
