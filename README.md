@@ -97,11 +97,6 @@ Here are some ideas to get you started:
 
 ### code
 
-```python
-# python 语言代码
-print("python")
-```
-
 ```c
 // C语言代码
 int main() 
@@ -128,6 +123,12 @@ public class HelloWorld {
     }
 }
 ```
+```python
+# python 语言代码
+print("python")
+```
+
+---
 
 ### reference
 >You found a secret! wang2018110733/wang2018110733 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.  
