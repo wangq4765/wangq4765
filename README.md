@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765&show_icons=true&theme=dark)]
+![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765&show_icons=true&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
