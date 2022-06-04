@@ -34,29 +34,20 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/maria-eduarda-de-azevedo-silva-a9a134191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"><a href="https://open.spotify.com/user/6fgvmx4gtnl612cg0jjtyugps" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a><a href="https://twitter.com/ddt_azevedo" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 ---
-	
+
 [![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765)](//www.tianheyu.top)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangq4765&theme=radical&title_color=8E2DE2&text_color=fff)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
------
-
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
-</a>
-
----
 
 <a href="https://github.com/Daggy1234">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
 </a>
------
+
+---
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
