@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 ### 你好
 很高兴遇见你，请多指教
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+
 [![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765)](//www.tianheyu.top)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
@@ -24,8 +28,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangq4765&theme=radical&title_color=8E2DE2&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
 
 ### wheel
 
