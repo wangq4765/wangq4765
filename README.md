@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-⭐️ From [@BRdhanani](https://github.com/BRdhanani)
-
 ---
 
 [![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765)](//www.tianheyu.top)
