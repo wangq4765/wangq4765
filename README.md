@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 你好
 很高兴遇见你，请多指教
 
----
+<h2></h2>
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
----
+<h2></h2>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -45,7 +45,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
+<h2></h2>
 
 <p align="center">
   <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
@@ -96,11 +96,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
   </a>
 </p>
 
----
-
 <h2></h2>
-
----
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
@@ -123,7 +119,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 <br />
 <br />
 
----
+<h2></h2>
 
 ### 👨‍💻 Languages and Tools
 
@@ -149,7 +145,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
----
+<h2></h2>
 
  **Tools and Environments**
 
@@ -175,7 +171,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
----
+<h2></h2>
 
 ![wangq4765 github stats](https://github-readme-stats.vercel.app/api?username=wangq4765&show_icons=true&theme=dark)
 
